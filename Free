@@ -47,6 +47,7 @@ http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sport HD 7610",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
@@ -70,3 +71,5 @@ https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=Nq
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="ext" group-title="Live BRI LIGA 1",BRI LIGA 1
+https://etslive-2-vidio-com.akamaized.net/exp=1661620548~acl=/hls-p/ingest_9307_*/*~hmac=4112856a3ae8543811bf2bf50b687e227e83b9da5b1ed224d2f8dc73ef42d7f2/hls-p/ingest_9307_720p/index.m3u8
