@@ -10,7 +10,7 @@ https://skjattagrp.ml/Asports.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Live BRI LIGA 1",BRI LIGA 1
 #EXTINF:68075.4 group-title="TV Nasional 7610",INDOSIAR
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+https://etslive-2-vidio-com.akamaized.net/exp=1663502997~acl=/hls-p/ingest_9858_*/*~hmac=92a6f6a12906d0e8ea8b8260c048d9a975688e6c67d1d8fc70204fc3a6037eb5/hls-p/ingest_9858_720p/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Live BRI LIGA 1",BRI LIGA 1
 https://etslive-2-vidio-com.akamaized.net/exp=1661706743~acl=/hls-p/ingest_9309_*/*~hmac=c829bbbacf0e8008fbc114d0674ed21f526fd7e16687b3c5a5180ac108eb613e/hls-p/ingest_9309_1080p/index.m3u8
