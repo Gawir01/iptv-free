@@ -15,7 +15,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1663502997~acl=/hls-p/ingest_9858_
 #EXTINF:0 tvg-id="ext" group-title="Live BRI LIGA 1",BRI LIGA 1
 https://etslive-2-vidio-com.akamaized.net/exp=1661706743~acl=/hls-p/ingest_9309_*/*~hmac=c829bbbacf0e8008fbc114d0674ed21f526fd7e16687b3c5a5180ac108eb613e/hls-p/ingest_9309_1080p/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Live MotoGP",Grand Prix
+#EXTINF:0 tvg-id="ext" group-title="Live AFC",CUP
 https://skjattagrp.ml/9hCZw8.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Live F1",FORMULA1
