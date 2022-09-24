@@ -6,15 +6,20 @@ https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Bnp2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live Sports",LIGA England
 http://play.cornertv.biz.id:8080/live/Kucoba/12345/788.ts
 #EXTINF:0 tvg-id="ext" group-title="Live Sports",LIGA ITALI
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/52859
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/789.ts
+
 #EXTINF:0 tvg-id="ext" group-title="Live BRI LIGA 1",BRI LIGA 1
 http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/145
+
 #EXTINF:68075.4 group-title="TV Nasional 7610",INDOSIAR
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Live BRI LIGA 1",BRI LIGA 1
 http://play.cornertv.biz.id:8080/live/Kucoba/12345/241.ts
+
 #EXTINF:0 tvg-id="ext" group-title="Live ",AFC CUP
 http://play.cornertv.biz.id:8080/live/Kucoba/12345/17.ts
+
 #EXTINF:0 tvg-id="ext" group-title="Live F1",FORMULA1
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/24460.m3u8
 
