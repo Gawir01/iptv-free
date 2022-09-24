@@ -4,7 +4,7 @@ https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Bnp2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?m9deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="ext" group-title="Live Sports",LIGA England
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/94498.m3u8
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/788.ts
 #EXTINF:0 tvg-id="ext" group-title="Live Sports",LIGA ITALI
 http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/52859
 #EXTINF:0 tvg-id="ext" group-title="Live BRI LIGA 1",BRI LIGA 1
