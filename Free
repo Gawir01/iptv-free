@@ -32,9 +32,11 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 
 #EXTINF:0 tvg-id="ChampionsTVGoal.id" tvg-logo="https://thumbor.prod.vidiocdn.com/LleNBdFSjLeakChDVn7zYWPf87k=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9045/1ef303.png" group-title="Sports",Champions 
-http://tv.zonanime.my.id/vidio/championstv2.m3u8'
-#EXTINF:0 tvg-id="ChampionsTV4.id" tvg-logo="https://thumbor.prod.vidiocdn.com/BNvg3XY4KhCt9r85x8k72XQHV1k=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7953/448640.png"group-title="Sports",Champions TV 4
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/lokal/indosiar','
+http://tv.zonanime.my.id/vidio/championstv2.m3u8
+
+#EXTINF:0 tvg-id="ChampionsTV3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/BNvg3XY4KhCt9r85x8k72XQHV1k=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7953/448640.png"group-title="Sports",Champions TV 3
+http://tv.zonanime.my.id/vidio/championstv3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sport HD 7610",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
