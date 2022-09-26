@@ -52,8 +52,8 @@ http://tv.zonanime.my.id/vidio/championstv3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sport HD 7610",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-
-
+#EXTINF:0 tvg-id="Boxing" tvg-logo="https://iptv.nullpress.xyz:8443/images/e9e81c0cd366d964713890108249eb0a.png"group-title="Sports",Boxing
+http://golive.yn.lt/live/boxing/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sport HD 7610",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
