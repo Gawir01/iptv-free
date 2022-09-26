@@ -63,7 +63,7 @@ http://play.cornertv.biz.id:8080/live/Kucoba/12345/239.ts
 #EXTINF:-1 group-title="Sport HD 7610",EURO SPORT 1
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/159609
 
-#EXTINF:0 tvg-id="ChampionsTV1.id" tvg-logo="https://i.ibb.co/SnFRPsp/boxing-tv-thumbnail-modified.png','Olahraga" group-title="Sports",Champions 1
+#EXTINF:0 tvg-id="ChampionsTV1.id" tvg','Olahraga" group-title="Sports",Champions 1
 http://golive.yn.lt/live/boxing/01.m3u8
 #EXTINF:0 tvg-id="ALL TV.id" tvg-logo="https://i.ibb.co/pzpCn4f/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="Sports",Champions 1
 http://koceng.xyz/MieGoreng/b.m3u8?koceng=live1
