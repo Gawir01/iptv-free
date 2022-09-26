@@ -70,4 +70,5 @@ http://koceng.xyz/MieGoreng/b.m3u8?koceng=live1
 http://warkop.cf/86/epl/01.m3u8
 #EXTINF:0 tvg-id="ALL TV.id" tvg-logo="https://images.useetv.com/logo_useeprime_big1.png" group-title="Sports",BEIN English
 http://hi.hi-back.masuk.web.id/c.m3u8
-
+#EXTINF:0 tvg-id="sport primeng" tvg-logo="https://i.ibb.co/6BFnZmZ/nowsports-white.jpg'"group-title="Sports",sport prime
+http://livetv.dnsfor.me/channel.12.m3u8
