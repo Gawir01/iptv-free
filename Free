@@ -280,7 +280,8 @@ https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mp
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/dJZFN66/20220414-124814.jpg" group-title="OLAHRAGA", MNC Sports 3
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/F79jwhB/MMAtv-Logo2.png" group-title="OLAHRAGA", mmatv Sports 3
+https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
 
 
 ####LOKAL####
