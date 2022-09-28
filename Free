@@ -287,6 +287,9 @@ https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/DgFqcsy/kisspng-logo-viasat-ukraine-television-channel-viasat-lt-lv-es-5be564cb502ae0-5921679315417602033284.png" group-title="OLAHRAGA", Sports
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/bFTWHpf/Champions-TV-1-2021.png" group-title="OLAHRAGA", Champions 1
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
+
 ####LOKAL####
 
 
@@ -1275,8 +1278,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="Sport HD 7610",Usee Sports 2 Backup
 http://15.235.142.228:8080/live/hometvfree/selaludihati/71.m3u8
 
-#EXTINF:0 tvg-id="Champions 1" tvg-logo="https://i.ibb.co/bFTWHpf/Champions-TV-1-2021.png"group-title="Sports",Champions 1
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="Sport HD 7610",Beinsport English 1
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
