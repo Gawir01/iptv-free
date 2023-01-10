@@ -377,6 +377,9 @@ http://mpwtv.my.id/vidioye/206-moji.m3u8
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/Ptrwg6d/tvone-home-tv.png"LOKAL", tvone
 http://45.126.83.51/session/9d273a78-7d58-11ed-9d7f-a75588236c14/qwr9ew/s/s105/01.m3u8
 
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/wLWjY5G/rcti-home-tv.png" group-title="LOKAL", RCTI
+https://h-rcti.rctiplus.id/RCTI2022-avc1_2500000=7-mp4a_128000=2.m3u8
+
 ####FILM####
 
 
@@ -407,7 +410,7 @@ http//2no.co/HBOhits-Shareext
 https://2no.co/HBOsig-Shareext
 
 #EXTINF:-1 tvg-id="MBC5.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/512px-5_MBC.webp.png" group-title="FILM",MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+https://shls-mbc5-prod-dub.shahid.net/out/v1/27o20564b6a4641658fdfb6884b160da2/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
