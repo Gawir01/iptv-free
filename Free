@@ -447,8 +447,8 @@ http://210.210.155.35:80/session/3bc829b4-66a6-11ec-ae85-b82a72d63267/dr9445/h/h
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQE8dYuvxp6GNnPNe6RrvMA_ocesaWNxGUwmdppKQ=s900-c-k-c0x00ffffff-no-rj" group-title="FILM", Asian Food Network
-https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/Df5t6mP/blue-ant-enter-home-tv.png" group-title="FILM",
+http://iptvid.my.id/hmm/rock.m3u8?by=iptv_id
 
 
 
