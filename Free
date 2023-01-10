@@ -417,9 +417,8 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 
-#EXTINF:-1 tvg-id="CHN" group-title="FILM" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
-
+#EXTINF:-1 tvg-id="CHN" group-title="FILM" tvg-logo="https://i.ibb.co/LJM3WtM/axn-home-tv.png",AXN
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157542
 
 #EXTINF:-1 tvg-logo="https://imgur.com/gallery/ceU4rq0.png",
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
