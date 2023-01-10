@@ -322,10 +322,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkAW3fdtrlDSCQOrNrnvElCzZ7L1Qp-ZTvaA&usqp=CAU" group-title="LOKAL", NET.
-https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
 
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/cr479Kt/20220530-135837.jpg" group-title="LOKAL", Nusantara
@@ -454,3 +451,6 @@ http://210.210.155.35/session/4996971e-e8ac-11ec-a06a-c81f66f89318/qwr9ew/s/s08/
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://www.useetv.com/pimages/logo_ocha_big.png"LOKAL", MOJI tv
 http://mpwtv.my.id/vidioye/206-moji.m3u8
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/Ptrwg6d/tvone-home-tv.png"LOKAL", tvone
+http://45.126.83.51/session/9d273a78-7d58-11ed-9d7f-a75588236c14/qwr9ew/s/s105/01.m3u8
