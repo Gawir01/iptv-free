@@ -446,8 +446,9 @@ http://210.210.155.35:80/session/3bc829b4-66a6-11ec-ae85-b82a72d63267/dr9445/h/h
 http://line.365tv.xyz:8060/Faucon_iptv223dfer/EuaU8EmzdnBY/101411
 
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="LOKAL", UGTV
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="LOKAL", transtv
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w53209756_b744100_sleng.m3u8
 
-
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/mJjQDnj/nettv-home-tv.png"LOKAL", nettv
+http://210.210.155.35/session/4996971e-e8ac-11ec-a06a-c81f66f89318/qwr9ew/s/s08/01.m3u8
 
