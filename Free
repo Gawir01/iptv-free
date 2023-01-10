@@ -446,7 +446,8 @@ http://210.210.155.35:80/session/3bc829b4-66a6-11ec-ae85-b82a72d63267/dr9445/h/h
 http://line.365tv.xyz:8060/Faucon_iptv223dfer/EuaU8EmzdnBY/101411
 
 
-
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="LOKAL", UGTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w53209756_b744100_sleng.m3u8
 
 
 
