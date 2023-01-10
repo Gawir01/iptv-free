@@ -332,15 +332,14 @@ https://b1world.beritasatumedia.com:443/Beritasatu/B1World_1280x720.m3u8
 https://live.cnnindonesia.com:443/livecnn/smil:cnntv.smil/chunklist_w1315532878_b384000_sleng.m3u8
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://thumbor.prod.vidiocdn.com/tmmSRk4XtrU7uWrqXmu0m_22RSM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/a11dc1.png" group-title="LOKAL", Moji Tv
-http://play.cornertv.biz.id:8080/live/Kucoba/12345/17.ts
+http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/8859
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://play-lh.googleusercontent.com/OKHS6EcJx8XhrQZ1leZxAH9fbGX6ug_fRyHI4bT5v0W1eo6Or2FudDaDruI_-cCsaFE" group-title="LOKAL", CNBC Indonesia
 https://live.cnbcindonesia.com:443/livecnbc/smil:cnbctv.smil/chunklist_w970496899_b384000_sleng.m3u8
 
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgD-q-k3J_ic2y2CgHY2vpbIoOjG0bOIFFDg&usqp=CAU" group-title="LOKAL", INDOSIAR1
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
-
+http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/8857
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgD-q-k3J_ic2y2CgHY2vpbIoOjG0bOIFFDg&usqp=CAU" group-title="LOKAL", INDOSIAR2
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
