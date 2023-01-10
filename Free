@@ -318,12 +318,11 @@ http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/12
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8BzpRK-G5-6EHEVbBN0wjJakNa9f00wBMmVSbfayHPt37lfgZH6jG8Zyuiv4aRFLzFms&usqp=CAU" group-title="LOKAL", ANTV
-https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/2
 
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://pbs.twimg.com/profile_images/676712736915480576/aSBabZsd_400x400.jpg" group-title="LOKAL", Berita Satu English
-https://b1english.beritasatumedia.com:443/Beritasatu/B1English_1280x720.m3u8
-
+http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/98
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQlDrg0OY3CVFkn9_w8pOOcltMk6LEuPN3vKx2ymA=s900-c-k-c0x00ffffff-no-rj" group-title="LOKAL", Berita Satu World
 https://b1world.beritasatumedia.com:443/Beritasatu/B1World_1280x720.m3u8
