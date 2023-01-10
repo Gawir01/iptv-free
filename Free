@@ -406,8 +406,7 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="FILM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature
-http://102.165.51.223:8080/roi123/N0W4yF0VAn/13510?token=QhNcUUpYElsXAANWBwwAUQBfAFAFUgBTBFFUUwBWBwddVQEAW1QGVwQbH0QXTEEBAgttXVQTDwFSUwcCGxJFF1xDa1ldEgpDAg0FREgaRw0OAxAOAQcCAVdUBQMFAhxGSVhQEgNeRQ1ZFREDHExWFg0HXmtUVENZAgMUCFlFXAgVE1teZlRVDFRXV0ReGgJGT0RbR0ATDxIiMBgSc1VcBUBEFHlLR1FBZlxHDwUaH0YBD0ZGUUVQElsIQ15bHBIHVkRaREtJEltbTF8KSBpWHBcDXEdZXlsSW0RCQRUcEg1KbkZVSkRCBFRUVhRGAhFVQUoQWVFJalMOCFhXVERZC1dCFgobBQBDGRteCQpRRwsROUJdVBMPXhQKWk8=
-
+https://2no.co/HBOsig-Shareext
 
 #EXTINF:-1 tvg-id="MBC5.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/512px-5_MBC.webp.png" group-title="FILM",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
