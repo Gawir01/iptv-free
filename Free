@@ -399,7 +399,7 @@ https://2no.co/HBOfam-Shareext
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="FILM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png",HBO Hits
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+http//2no.co/HBOhits-Shareext
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -430,8 +430,8 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://pbs.twimg.com/profile_images/1432025188095381507/SIcs5M-H_400x400.jpg" group-title="FILM", TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/gD2TpLT/Fox-action-movies.jpg" group-title="FILM", Fox-action-movies
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
 
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppGXAVxFcNXR30eEOO17XCyu3H6m6Dxn3Lg&usqp=CAU" group-title="FILM", Rock Entertainment
