@@ -341,8 +341,7 @@ https://live.cnbcindonesia.com:443/livecnbc/smil:cnbctv.smil/chunklist_w97049689
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgD-q-k3J_ic2y2CgHY2vpbIoOjG0bOIFFDg&usqp=CAU" group-title="LOKAL", INDOSIAR2
-http://play.cornertv.biz.id:8080/live/Kucoba/12345/5.ts
-
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
