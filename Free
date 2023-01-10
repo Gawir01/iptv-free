@@ -452,3 +452,5 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w53209756_b744100_sl
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/mJjQDnj/nettv-home-tv.png"LOKAL", nettv
 http://210.210.155.35/session/4996971e-e8ac-11ec-a06a-c81f66f89318/qwr9ew/s/s08/01.m3u8
 
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://www.useetv.com/pimages/logo_ocha_big.png"LOKAL", MOJI tv
+http://mpwtv.my.id/vidioye/206-moji.m3u8
