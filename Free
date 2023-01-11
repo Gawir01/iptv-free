@@ -201,6 +201,12 @@ http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/17256
 http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/17257
 
 
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://www.tv-romania.online/images/canale/orange-sport-2-mic.webp" group-title="OLAHRAGA", orange-sport-2
+http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/12728
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://www.tv-romania.online/images/canale/orange-sport-1-mic.webp" group-title="OLAHRAGA", orange-sport-1
+http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/12727
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
