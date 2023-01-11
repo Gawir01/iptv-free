@@ -246,6 +246,11 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#EXTINF:-0 tvg-name="TV" tvg-logo="   " group-title="OLAHRAGA", TSN 1
+http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/3832
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="   " group-title="OLAHRAGA", TSN 2
+http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/8873
 
 ####LOKAL####
 
