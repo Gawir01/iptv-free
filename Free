@@ -467,3 +467,7 @@ https://d-mnctv.rctiplus.id/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/gZLhrBt/gtv-home-tv.png" group-title="LOKAL", GTV
 https://d-gtv.rctiplus.id/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/gD2TpLT/Fox-action-movies.jpg" group-title="FILM", Fox-action-movies
+http://210.210.155.35:80/session/3bc829b4-66a6-11ec-ae85-b82a72d63267/dr9445/h/h15/01.m3u8
+
