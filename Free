@@ -330,7 +330,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/mJjQDnj/nettv-home-tv.png" group-title="LOKAL", NET TV
-https://devds.site/api/youlive.m3u8?v=wKWkVLzQnlw
+http://45.126.83.51/session/fe896fce-7d59-11ed-a54d-9145ae55b96e/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIIrXr__mm6yPrCWWQRuu1V5XAjELf0bz6rA&usqp=CAU" group-title="LOKAL", RRI Net
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a268ef7e5a44f541a7cbde7626ef57566
