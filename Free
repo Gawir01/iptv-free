@@ -252,6 +252,12 @@ http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/3832
 #EXTINF:-0 tvg-name="TV" tvg-logo="   " group-title="OLAHRAGA", TSN 2
 http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/8873
 
+#EXTINF:-0 tvg-name="TV" tvg-logo="   " group-title="OLAHRAGA", TSN 3
+http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/8874
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="   " group-title="OLAHRAGA", TSN 4
+http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/8875
+
 ####LOKAL####
 
 
