@@ -49,7 +49,20 @@ https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/BOxOpi
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://www.themoviedb.org/t/p/w1280/jrw684BhFJZ9Jac6KJda3hSQkxt.jpg" group-title="FILEM", The Big 4
 https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/BOxOpiss/The Big 4 (2022) WEBDL 720p [filmblurayku.web.id].mp4
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://www.themoviedb.org/t/p/w1280/s0MJ12Lf412G3KD3VkNGplHtK48.jpg" group-title="FILEM", kuntilanak 3
+https://eu2.contabostorage.com/ed5835402b224aad846d9960de3d0631:premiumiptvserver/MengkisMengkiss%2FKuntilanak%203%20(2022)%20WEBDL%20720p%20%5Bfilmblurayku.web.id%5D.mp4
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://www.themoviedb.org/t/p/w1280/kwweq8ffvSTGGUnOsalp73dY1B5.jpg" group-title="FILEM", halloween
+https://eu2.contabostorage.com/ed5835402b224aad846d9960de3d0631:premiumiptvserver/MengkisMengkiss%2Fgm21.%20link.%20Halloween.Ends.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://www.themoviedb.org/t/p/w1280/a7PZv5Px1npYX0lm1v6WtfnZcVL.jpg" group-title="FILEM", Guardians.Of.Time
+https://eu2.contabostorage.com/ed5835402b224aad846d9960de3d0631:premiumiptvserver/MengkisMengkiss%2FNGEFILM21.PW.Guardians.Of.Time.2022.WEBRip.720p.mp4
 
 
 ####BERITA#####
