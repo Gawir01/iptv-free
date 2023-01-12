@@ -159,12 +159,9 @@ https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW04KcEeq477eHd9ZUZtTWdJ7Gl-1m5gSIMA&usqp=CAU" group-title="ANAK", Animax
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-
-
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTuTCmo8yZD_nhmt0-q99EW6vw6IVOzBJTlJh8LEQ=s88-c-k-c0x00ffffff-no-rj" group-title="ANAK, Aniplus
 http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/118
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
