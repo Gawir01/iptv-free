@@ -169,7 +169,10 @@ http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/118
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://yt3.ggpht.com/XxuNrMOOr_mwnmYRXQ71VtTciVOhw3FvzluNLD6J3rwFkJ_o_SxKvgl0XKykbV2_SNlGpvxw=s900-c-k-c0x00ffffff-no-rj" group-title="ANAK", BabyTV
 http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/9214
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/MBdBCT1/cbeebies-home-tv.png" group-title="ANAK", cbeebiesTV
+http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/9231
 
 
 
