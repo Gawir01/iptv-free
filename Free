@@ -142,14 +142,12 @@ http://210.210.155.35/session/ad12ac1a-dede-11ec-9090-c81f66f89318/x6bnqe/s/s81/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQSgQIli3EIzikFi_XPaTZyObTMCh6uHDekVo3oQQ=s88-c-k-c0x00ffffff-no-rj" group-title="ANAK", Nickelodeon
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-
+http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/65
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJUP5IFKTCJ5QRPysXf10znyYg6Q8ccUrcptWM1rv5uAQgk8oGhuDZLj9twaAlmHfLfw&usqp=CAU" group-title="ANAK", Nick Junior
-https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
-
+http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/66
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
