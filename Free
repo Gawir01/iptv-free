@@ -332,7 +332,7 @@ https://live.cnbcindonesia.com:443/livecnbc/smil:cnbctv.smil/chunklist_w97049689
 
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgD-q-k3J_ic2y2CgHY2vpbIoOjG0bOIFFDg&usqp=CAU" group-title="LOKAL", INDOSIAR1
-http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+http://live.fortunetv.me:25461/RTKvURXmrQ/FHkSJhjWZX/283.ts
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgD-q-k3J_ic2y2CgHY2vpbIoOjG0bOIFFDg&usqp=CAU" group-title="LOKAL", INDOSIAR2
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
