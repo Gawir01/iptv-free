@@ -332,10 +332,9 @@ https://live.cnbcindonesia.com:443/livecnbc/smil:cnbctv.smil/chunklist_w97049689
 
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgD-q-k3J_ic2y2CgHY2vpbIoOjG0bOIFFDg&usqp=CAU" group-title="LOKAL", INDOSIAR1
-http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/8857
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgD-q-k3J_ic2y2CgHY2vpbIoOjG0bOIFFDg&usqp=CAU" group-title="LOKAL", INDOSIAR2
-http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/5
-
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
