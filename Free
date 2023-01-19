@@ -442,6 +442,7 @@ http://live.fortunetv.me:25461/RTKvURXmrQ/FHkSJhjWZX/25.ts
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="FILM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family
 https://2no.co/HBOfam-Shareext
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="FILM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png",HBO Hits
