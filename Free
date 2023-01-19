@@ -519,3 +519,6 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-sports-2-ie.png" group-title="OLAHRAGA", premier-sports-2
 http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/4723
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/qWhRDQS/400px-FS2-logo-2015-svg-1.png" group-title="OLAHRAGA", LionTv
+http://iptvglobal.site:25461/LionTv/r1942G22hz/86815
