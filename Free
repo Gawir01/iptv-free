@@ -494,7 +494,7 @@ http://210.210.155.35:80/session/3bc829b4-66a6-11ec-ae85-b82a72d63267/dr9445/h/h
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/7gw38Pq/galaxy-premium-home-tv.png" group-title="FILM",galaxy-premium
-http://line.365tv.xyz:8060/Faucon_iptv223dfer/EuaU8EmzdnBY/101411
+http://live.fortunetv.me:25461/RTKvURXmrQ/FHkSJhjWZX/38.ts
 
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="LOKAL", TRANS TV
