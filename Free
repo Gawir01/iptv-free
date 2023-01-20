@@ -222,7 +222,7 @@ http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/17256
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKsX8AZ9BnjcNQPaWE_zdWa7Qbd9-BnuKufpDIbtbaT3gKMt3zNFDRwLEt6fhDVec3ZQ&usqp=CAU" group-title="OLAHRAGA", Bein Sports 3 Indonesia
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKsX8AZ9BnjcNQPaWE_zdWa7Qbd9-BnuKufpDIbtbaT3gKMt3zNFDRwLEt6fhDVec3ZQ&usqp=CAU" group-title="OLAHRAGA", Bein Sports 3 
 http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/17257
 
 
@@ -289,8 +289,8 @@ http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/8875
 
 
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/KNTqnjw/ss-logo-slogan.png" group-title="OLAHRAGA", PREMIERE LEAGUE
-http://destiny4k.com:2086/live/darkside/t2z7marsRY/2702.ts
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/KNTqnjw/ss-logo-slogan.png" group-title="OLAHRAGA", SkySports
+http://live.fortunetv.me:25461/RTKvURXmrQ/FHkSJhjWZX/155.ts
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/qWhRDQS/400px-FS2-logo-2015-svg-1.png" group-title="OLAHRAGA", LionTv
 http://iptvglobal.site:25461/LionTv/r1942G22hz/86815
