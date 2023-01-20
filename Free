@@ -524,3 +524,5 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-sports-2-ie.png" group-title="OLAHRAGA", premier-sports-2
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115616
 
+#EXTINF:-0 tvg-name="TV" tvg-logo="http://worldiptv.xyz/chlogos/MAXSport1.bg.png" group-title="OLAHRAGA", MAXSport1
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/69644
