@@ -241,18 +241,17 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/23xt5Fv/20220414-124653.jpg" group-title="OLAHRAGA", MNC Sports
-http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/3079
-
+http://live.fortunetv.me:25461/RTKvURXmrQ/FHkSJhjWZX/76.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/g9DDp3M/20220414-124756.jpg" group-title="OLAHRAGA", MNC Sports 2
-https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+http://live.fortunetv.me:25461/RTKvURXmrQ/FHkSJhjWZX/77.ts
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/dJZFN66/20220414-124814.jpg" group-title="OLAHRAGA", MNC Sports 3
-https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+http://live.fortunetv.me:25461/RTKvURXmrQ/FHkSJhjWZX/78.ts
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/F79jwhB/MMAtv-Logo2.png" group-title="OLAHRAGA", mmatv Sports 3
 https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
