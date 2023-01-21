@@ -379,7 +379,8 @@ http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/2972
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
 
 
-
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI (HD)" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="LOKAL",RCTI (HD)
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/8.ts
 
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/cr479Kt/20220530-135837.jpg" group-title="LOKAL", Nusantara
