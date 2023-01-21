@@ -171,7 +171,18 @@ http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/9214
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/MBdBCT1/cbeebies-home-tv.png" group-title="ANAK", cbeebiesTV
 http://play.cornertv.biz.id:8080/BY4vJycuPpGZ/hGVpryaRCsbw/9231
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Babybus" tvg-logo="https://i.ibb.co/Y34h89X/SGN-05-03-2022-1651581957068.png" group-title="ANAK",Babybus
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/2443.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cocomelon" tvg-logo="https://i.ibb.co/znTqR6c/SGN-03-17-2022-1647521137280.png" group-title="ANAK",Cocomelon
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/2445.ts
+#EXTINF:-1 tvg-id="" tvg-name="Happy Kids" tvg-logo="https://i.ibb.co/s5xzC8y/SGN-05-18-2022-1652864127460.png" group-title="ANAK",Happy Kids
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/2447.ts
+#EXTINF:-1 tvg-id="" tvg-name="Larva" tvg-logo="https://i.ibb.co/VN2pnk7/SGN-06-05-2022-1654406708152.png" group-title="ANAK",Larva
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/2444.ts
+#EXTINF:-1 tvg-id="" tvg-name="ODDBODS 24/7" tvg-logo="" group-title="ANAK",ODDBODS 24/7
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/18708.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paw Patrol" tvg-logo="https://i.ibb.co/Lh9sJq5/SGN-05-03-2022-1651582089217.png" group-title="ANAK",Paw Patrol
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/2446.ts
 
 
 #####MUSIK#####
