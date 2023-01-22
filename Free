@@ -66,7 +66,7 @@ https://eu2.contabostorage.com/ed5835402b224aad846d9960de3d0631:premiumiptvserve
 https://eu2.contabostorage.com/ed5835402b224aad846d9960de3d0631:premiumiptvserver/MengkisMengkiss%2FNGEFILM21.PW.Guardians.Of.Time.2022.WEBRip.720p.mp4
 
 
-####BERITA#####
+####Entertainment#####
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/gallery/ceU4rq0.png",
@@ -602,3 +602,15 @@ http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/9232.ts
 http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/66.ts
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="ANAK",Nickelodeon
 http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/65.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="https://i.ibb.co/ykm1ppp/arirang-home-tv.png" group-title="Entertainment",ARIRANG
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/127.ts
+#EXTINF:-1 tvg-id="" tvg-name="Citra Dangdut" tvg-logo="https://i.ibb.co/VBTdjpW/citra-dangdut-home-tv.png" group-title="Entertainment",Citra Dangdut
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/2969.ts
+#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co/7VRZmBX/citra-drama-home-tv.png" group-title="Entertainment",Citra Drama
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/2970.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/KbF85XK/dunialain-home-tv.png" group-title="Entertainment",Dunia Lain
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/2971.ts
+#EXTINF:-1 tvg-id="" tvg-name="FMN" tvg-logo="https://i.ibb.co/kMxV1vX/fmn-home-tv.png" group-title="Entertainment",FMN
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/9217.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/dj2nRNy/Fashiontv-home-tv.png" group-title="Entertainment",Fashion TV
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/8849.ts
