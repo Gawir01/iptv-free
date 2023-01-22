@@ -70,27 +70,27 @@ https://eu2.contabostorage.com/ed5835402b224aad846d9960de3d0631:premiumiptvserve
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/gallery/ceU4rq0.png",
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHYrIL6NsVEKqpqSYacyvxov0YhqDYcJVE-A&usqp=CAU" group-title="BERITA", TRT World
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHYrIL6NsVEKqpqSYacyvxov0YhqDYcJVE-A&usqp=CAU" group-title="Entertainment", TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" group-title="BERITA", Russia Today
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" group-title="Entertainment", Russia Today
 https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEllb6uT3K0FXqpmaoGX7RhIbKu91rzsqT3Q&usqp=CAU" group-title="BERITA", ABC Australia Asia
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEllb6uT3K0FXqpmaoGX7RhIbKu91rzsqT3Q&usqp=CAU" group-title="Entertainment", ABC Australia Asia
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://image.akurat.co/images/uploads/images/akurat_20190514035335_200M8V.jpg" group-title="BERITA", Al Jazeera English HD
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://image.akurat.co/images/uploads/images/akurat_20190514035335_200M8V.jpg" group-title="Entertainment", Al Jazeera English HD
 https://live-hls-apps-aljazeera.global.ssl.fastly.net/AJE/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/140px-CNN_International_logo.svg.png" group-title="BERITA", CNN International
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/140px-CNN_International_logo.svg.png" group-title="Entertainment", CNN International
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
 
