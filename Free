@@ -574,3 +574,31 @@ http://play.cornertv.biz.id:8080/movie/Sabtu9876/Fbfb/18342.mp4
 http://play.cornertv.biz.id:8080/movie/Sabtu9876/Fbfb/18343.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mencuri Raden Saleh (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fdqRcgEYNkXCnnKAzz2JtFnUv7.jpg" group-title="Movies",Mencuri Raden Saleh (2022)
 http://play.cornertv.biz.id:8080/movie/Sabtu9876/Fbfb/18391.mp4
+#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-name="ANIMAX" tvg-logo="https://i.ibb.co/ZJGKFy9/animax-home-tv.png" group-title="ANAK",ANIMAX
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/119.ts
+#EXTINF:-1 tvg-id="AniPlus.th" tvg-name="ANIPLUS" tvg-logo="https://i.ibb.co/6JGP61f/aniplus-home-tv.png" group-title="ANAK",ANIPLUS
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/118.ts
+#EXTINF:-1 tvg-id="BoomerangAsia.sg" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/YbKLSR1/gtfj.png" group-title="ANAK",Boomerang
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/68.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co/9VvSqwc/SGN-08-08-2022-1659945027954.png" group-title="ANAK",Mentari TV
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/2972.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://i.ibb.co/QD4Gnyr/SGN-12-20-2022-1671552590901.png" group-title="ANAK",Baby TV
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/9214.ts
+#EXTINF:-1 tvg-id="" tvg-name="Besmart" tvg-logo="https://i.ibb.co/4g734bd/besmart-home-tv.png" group-title="ANAK",Besmart
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/9230.ts
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" group-title="ANAK",Cartoon Network
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/64.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://i.ibb.co/MBdBCT1/cbeebies-home-tv.png" group-title="ANAK",CBeebies
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/9231.ts
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="CERIA" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="ANAK",CERIA
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/37.ts
+#EXTINF:-1 tvg-id="Dreamworks.MACAN" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/T8yPnjM/RDFHDCFG.png" group-title="ANAK",Dreamworks
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/67.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-logo="https://i.ibb.co/HrbRhdB/kidstv-home-tv.png" group-title="ANAK",Kids TV
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/9236.ts
+#EXTINF:-1 tvg-id="" tvg-name="Miao Mi" tvg-logo="https://i.ibb.co/fSRs07L/miaomi-home-tv.png" group-title="ANAK",Miao Mi
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/9232.ts
+#EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick JR" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="ANAK",Nick JR
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/66.ts
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="ANAK",Nickelodeon
+http://play.cornertv.biz.id:8080/live/BY4vJycuPpGZ/hGVpryaRCsbw/65.ts
