@@ -9,7 +9,7 @@ https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/BOxOpi
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://www.themoviedb.org/t/p/w1280/63InZxeGgfNQCoWkImR14fB99AY.jpg" group-title="Movies", KKN DESA PENARI
 https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/BOxOpiss%2FKKN.Di.Desa.Penari.2022.UNCUT.1080p.HS.WEB-DL.DDP5.1.x264-Lent3Ra.mkv
 
-####USER IPTV_YAYAN#####
+
 
 #KODIPROP:inputstream.adaptive.licbense_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -574,3 +574,5 @@ http://play.cornertv.biz.id:8080/movie/Sabtu9876/Fbfb/18342.mp4
 http://play.cornertv.biz.id:8080/movie/Sabtu9876/Fbfb/18343.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mencuri Raden Saleh (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fdqRcgEYNkXCnnKAzz2JtFnUv7.jpg" group-title="FILEM",Mencuri Raden Saleh (2022)
 http://play.cornertv.biz.id:8080/movie/Sabtu9876/Fbfb/18391.mp4
+
+####USER IPTV_YAYAN#####
